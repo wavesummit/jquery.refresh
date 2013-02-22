@@ -11,3 +11,7 @@ The following will find all images and refresh them every 10 seconds.
 $('img').refresh(10000);
 
 Make sure to load jQuery before this script, and make sure that the images have loaded before calling this function.
+
+To see the plugin working with JQuery 1.9.1 checkout.
+
+http://jsfiddle.net/wavesummit/3mNvF/
